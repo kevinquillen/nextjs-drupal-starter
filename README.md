@@ -5,7 +5,7 @@ for Drupal 2.0.
 
 ## How to use
 
-`npx create-next-app -e https://github.com/chapter-three/next-drupal-basic-starter`
+`npx create-next-app -e https://github.com/kevinquillen/nextjs-drupal-starter`
 
 ## Documentation
 
